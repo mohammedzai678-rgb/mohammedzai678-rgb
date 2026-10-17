@@ -111,9 +111,9 @@ My technical work and ongoing exploration center on the intersection of intellig
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohammedzai678-rgb/mohammedzai678-rgb/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mohammedzai678-rgb/mohammedzai678-rgb/output/github-snake.svg" />
-    <img width="98%" alt="Mohammed Zaid's GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/mohammedzai678-rgb/mohammedzai678-rgb/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohammedzai678-rgb/profile/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mohammedzai678-rgb/profile/output/github-snake.svg" />
+    <img width="98%" alt="Mohammed Zaid's GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/mohammedzai678-rgb/profile/output/github-snake-dark.svg" />
   </picture>
 </div>
 
