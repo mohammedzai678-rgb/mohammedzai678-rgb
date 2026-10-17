@@ -32,54 +32,32 @@ My engineering focus and active areas of development bridge hardware electronics
 ### Programming Languages
 
 <p align="left">
-  <img src="https://img.shields.io/badge/C-161B22?style=for-the-badge&logo=c&logoColor=38BDF8" alt="C" />
-  <img src="https://img.shields.io/badge/C%2B%2B-161B22?style=for-the-badge&logo=cplusplus&logoColor=38BDF8" alt="C++" />
-  <img src="https://img.shields.io/badge/Python-161B22?style=for-the-badge&logo=python&logoColor=38BDF8" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-161B22?style=for-the-badge&logo=javascript&logoColor=38BDF8" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-161B22?style=for-the-badge&logo=html5&logoColor=38BDF8" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-161B22?style=for-the-badge&logo=css&logoColor=38BDF8" alt="CSS3" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,py,js,ts,html,css&theme=dark" alt="C, C++, Python, JavaScript, TypeScript, HTML5, CSS3" />
 </p>
 
 ### Embedded Systems, Hardware & Firmware
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Arduino-161B22?style=for-the-badge&logo=arduino&logoColor=38BDF8" alt="Arduino" />
-  <img src="https://img.shields.io/badge/ESP32-161B22?style=for-the-badge&logo=espressif&logoColor=38BDF8" alt="ESP32" />
-  <img src="https://img.shields.io/badge/Raspberry_Pi-161B22?style=for-the-badge&logo=raspberrypi&logoColor=38BDF8" alt="Raspberry Pi" />
-  <img src="https://img.shields.io/badge/Firmware_%28C%2FC%2B%2B%29-161B22?style=for-the-badge&logo=arm&logoColor=38BDF8" alt="Firmware (C/C++)" />
-  <img src="https://img.shields.io/badge/Sensors_%26_MCUs-161B22?style=for-the-badge&logo=stmicroelectronics&logoColor=38BDF8" alt="Sensors and Microcontrollers" />
-  <img src="https://img.shields.io/badge/IoT-161B22?style=for-the-badge&logo=mqtt&logoColor=38BDF8" alt="IoT" />
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,linux,cmake,bash,clion&theme=dark" alt="Arduino, Raspberry Pi, Embedded Linux, CMake, Bash, CLion" />
 </p>
+<sub><code>Arduino</code> · <code>ESP32</code> · <code>Raspberry Pi</code> · <code>Embedded C/C++ Firmware</code> · <code>Sensors &amp; Microcontrollers</code> · <code>IoT</code></sub>
 
 ### Web Development
 
 <p align="left">
-  <img src="https://img.shields.io/badge/React-161B22?style=for-the-badge&logo=react&logoColor=38BDF8" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-161B22?style=for-the-badge&logo=nextdotjs&logoColor=38BDF8" alt="Next.js" />
-  <img src="https://img.shields.io/badge/FastAPI-161B22?style=for-the-badge&logo=fastapi&logoColor=38BDF8" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/REST_APIs-161B22?style=for-the-badge&logo=openapiinitiative&logoColor=38BDF8" alt="REST APIs" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,fastapi,nodejs,tailwind,postman&theme=dark" alt="React, Next.js, FastAPI, Node.js, Tailwind CSS, Postman REST APIs" />
 </p>
 
 ### AI and Data Science
 
 <p align="left">
-  <img src="https://img.shields.io/badge/MATLAB-161B22?style=for-the-badge&logo=octave&logoColor=38BDF8" alt="MATLAB" />
-  <img src="https://img.shields.io/badge/NumPy-161B22?style=for-the-badge&logo=numpy&logoColor=38BDF8" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Pandas-161B22?style=for-the-badge&logo=pandas&logoColor=38BDF8" alt="Pandas" />
-  <img src="https://img.shields.io/badge/scikit--learn-161B22?style=for-the-badge&logo=scikitlearn&logoColor=38BDF8" alt="scikit-learn" />
-  <img src="https://img.shields.io/badge/Machine_Learning-161B22?style=for-the-badge&logo=tensorflow&logoColor=38BDF8" alt="Machine Learning" />
-  <img src="https://img.shields.io/badge/Deep_Learning-161B22?style=for-the-badge&logo=pytorch&logoColor=38BDF8" alt="Deep Learning" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=matlab,numpy,pandas,scikitlearn,tensorflow,pytorch&theme=dark" alt="MATLAB, NumPy, Pandas, scikit-learn, Machine Learning, Deep Learning" />
 </p>
 
 ### Tools and Platforms
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Git-161B22?style=for-the-badge&logo=git&logoColor=38BDF8" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=38BDF8" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Docker-161B22?style=for-the-badge&logo=docker&logoColor=38BDF8" alt="Docker" />
-  <img src="https://img.shields.io/badge/Supabase-161B22?style=for-the-badge&logo=supabase&logoColor=38BDF8" alt="Supabase" />
-  <img src="https://img.shields.io/badge/Vercel-161B22?style=for-the-badge&logo=vercel&logoColor=38BDF8" alt="Vercel" />
-  <img src="https://img.shields.io/badge/Render-161B22?style=for-the-badge&logo=render&logoColor=38BDF8" alt="Render" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,docker,supabase,vercel,render,vscode&theme=dark" alt="Git, GitHub, Docker, Supabase, Vercel, Render, VS Code" />
 </p>
 
 | Scope | Technologies & Platforms |
