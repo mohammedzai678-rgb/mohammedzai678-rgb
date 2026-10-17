@@ -109,10 +109,6 @@ My technical work and ongoing exploration center on the intersection of intellig
   <img width="98%" src="https://github-contribution-merger.apoorvdarshan.com/api/merge?users=mohammedzai678-rgb&theme=github-dark&colors=38bdf8" alt="Mohammed Zaid's GitHub Contribution Calendar Heatmap" />
 </div>
 
-<!--
-  Contribution Snake Animation (Configured in .github/workflows/snake.yml)
-  Uncomment the <picture> block below after the "Generate Contribution Snake" GitHub Actions workflow runs in mohammedzai678-rgb/mohammedzai678-rgb and creates the `output` branch:
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohammedzai678-rgb/mohammedzai678-rgb/output/github-snake-dark.svg" />
@@ -120,7 +116,6 @@ My technical work and ongoing exploration center on the intersection of intellig
     <img width="98%" alt="Mohammed Zaid's GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/mohammedzai678-rgb/mohammedzai678-rgb/output/github-snake-dark.svg" />
   </picture>
 </div>
--->
 
 ---
 
