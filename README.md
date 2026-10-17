@@ -1,53 +1,54 @@
 # Hi There 👋
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=38BDF8&vCenter=true&width=480&height=32&lines=AI+%26+Machine+Learning;Software+Development;Embedded+Systems+%26+IoT;Building+Practical+Technology;Continuous+Learning" alt="Animated typing banner rotating through AI & Machine Learning, Software Development, Embedded Systems & IoT, Building Practical Technology, and Continuous Learning" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=38BDF8&vCenter=true&width=520&height=32&lines=Electrical+%26+Electronics+Engineer;Embedded+Systems+%26+Firmware+(C+%2F+C%2B%2B);Arduino%2C+ESP32+%26+Raspberry+Pi;Python+%26+Web+Development;Hardware%E2%80%93Software+Integration+%26+AI" alt="Animated typing banner rotating through Electrical & Electronics Engineer, Embedded Systems & Firmware (C / C++), Arduino, ESP32 & Raspberry Pi, Python & Web Development, and Hardware-Software Integration & AI" />
 </p>
 
-I'm **Mohammed Zaid**, a developer from **Bengaluru, India**, focused on **artificial intelligence**, **software development**, and **embedded systems**—engineering practical solutions to real-world problems.
+I'm **Mohammed Zaid**, an **Electrical and Electronics Engineer** and developer from **Bengaluru, India**, focused on **embedded systems**, **firmware development (`C` / `C++`)**, **Python**, **web development**, and **applied AI**.
 
-I enjoy exploring emerging technologies, experimenting across hardware and software boundaries, and turning concepts into reliable, working prototypes.
+I enjoy working close to the hardware with **Arduino**, **ESP32**, and **Raspberry Pi**—interfacing sensors, writing microcontroller firmware, and connecting embedded devices with modern web interfaces and backend services to solve real-world problems.
 
 ---
 
 ## About Me
 
-My technical work and ongoing exploration center on the intersection of intelligent software and physical computing:
+My engineering focus and active areas of development bridge hardware electronics, low-level firmware, and modern software systems:
 
-- **Artificial Intelligence & Machine Learning** — Exploring data-driven modeling, pattern recognition, and applied machine intelligence.
-- **Python Development** — Building automation scripts, data processing pipelines, and backend services.
-- **Web Development & Backend Systems** — Designing responsive web interfaces and structured RESTful APIs.
-- **ESP32, Arduino, Sensors & Embedded Systems** — Writing firmware and interfacing microcontrollers with biometric and environmental sensors.
-- **IoT & Hardware–Software Integration** — Connecting edge hardware and real-time sensor telemetry with cloud and local backend systems.
-- **Smart-City Technology & Intelligent Transportation** — Exploring connected systems for urban mobility, safety, and civic infrastructure.
-- **Digital Health & Assistive Technology** — Prototyping clinical triage analysis and wearable physiological monitoring tools.
-- **Continuous Technical Learning** — Consistently expanding my engineering foundation through hands-on experimentation.
+- **Embedded Systems & Firmware Coding** — Writing `C` and `C++` firmware for **Arduino**, **ESP32**, and **Raspberry Pi**, interfacing sensors, actuators, and microcontrollers.
+- **Electrical & Electronics Engineering** — Circuit prototyping, hardware debugging, sensor signal acquisition, and edge computing hardware integration.
+- **Python Development** — Building hardware-to-server bridges, backend APIs, automation utilities, and data pipelines.
+- **IoT & Hardware–Software Integration** — Connecting embedded devices and live sensor telemetry to web dashboards and cloud backends.
+- **Web Development & Backend Systems** — Developing full-stack web interfaces and REST APIs to control, monitor, and visualize connected systems.
+- **Artificial Intelligence & Machine Learning** — Exploring data-driven modeling, signal analysis, and edge-to-cloud intelligence.
+- **Smart-City Technology & Digital Health** — Prototyping connected solutions for intelligent transportation, safety, and wearable physiological monitoring.
+- **Continuous Technical Learning** — Consistently expanding my hardware, firmware, and software engineering capabilities through hands-on builds.
 
 ---
 
 ## Technologies I'm Exploring 🛠️
 
-> A categorized overview of technologies used across my repositories alongside tools and domains I am actively exploring.
+> A categorized overview of languages, hardware platforms, and tools I actively use and explore across firmware, electronics, and software development.
 
 ### Programming Languages
 
 <p align="left">
+  <img src="https://img.shields.io/badge/C-161B22?style=for-the-badge&logo=c&logoColor=38BDF8" alt="C" />
+  <img src="https://img.shields.io/badge/C%2B%2B-161B22?style=for-the-badge&logo=cplusplus&logoColor=38BDF8" alt="C++" />
   <img src="https://img.shields.io/badge/Python-161B22?style=for-the-badge&logo=python&logoColor=38BDF8" alt="Python" />
   <img src="https://img.shields.io/badge/JavaScript-161B22?style=for-the-badge&logo=javascript&logoColor=38BDF8" alt="JavaScript" />
   <img src="https://img.shields.io/badge/HTML5-161B22?style=for-the-badge&logo=html5&logoColor=38BDF8" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-161B22?style=for-the-badge&logo=css&logoColor=38BDF8" alt="CSS3" />
-  <img src="https://img.shields.io/badge/C%2FC%2B%2B-161B22?style=for-the-badge&logo=cplusplus&logoColor=38BDF8" alt="C/C++" />
 </p>
 
-### AI and Data Science
+### Embedded Systems, Hardware & Firmware
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Machine_Learning-161B22?style=for-the-badge&logo=tensorflow&logoColor=38BDF8" alt="Machine Learning" />
-  <img src="https://img.shields.io/badge/Deep_Learning-161B22?style=for-the-badge&logo=pytorch&logoColor=38BDF8" alt="Deep Learning" />
-  <img src="https://img.shields.io/badge/NumPy-161B22?style=for-the-badge&logo=numpy&logoColor=38BDF8" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Pandas-161B22?style=for-the-badge&logo=pandas&logoColor=38BDF8" alt="Pandas" />
-  <img src="https://img.shields.io/badge/scikit--learn-161B22?style=for-the-badge&logo=scikitlearn&logoColor=38BDF8" alt="scikit-learn" />
-  <img src="https://img.shields.io/badge/MATLAB-161B22?style=for-the-badge&logo=octave&logoColor=38BDF8" alt="MATLAB" />
+  <img src="https://img.shields.io/badge/Arduino-161B22?style=for-the-badge&logo=arduino&logoColor=38BDF8" alt="Arduino" />
+  <img src="https://img.shields.io/badge/ESP32-161B22?style=for-the-badge&logo=espressif&logoColor=38BDF8" alt="ESP32" />
+  <img src="https://img.shields.io/badge/Raspberry_Pi-161B22?style=for-the-badge&logo=raspberrypi&logoColor=38BDF8" alt="Raspberry Pi" />
+  <img src="https://img.shields.io/badge/Firmware_%28C%2FC%2B%2B%29-161B22?style=for-the-badge&logo=arm&logoColor=38BDF8" alt="Firmware (C/C++)" />
+  <img src="https://img.shields.io/badge/Sensors_%26_MCUs-161B22?style=for-the-badge&logo=stmicroelectronics&logoColor=38BDF8" alt="Sensors and Microcontrollers" />
+  <img src="https://img.shields.io/badge/IoT-161B22?style=for-the-badge&logo=mqtt&logoColor=38BDF8" alt="IoT" />
 </p>
 
 ### Web Development
@@ -59,13 +60,15 @@ My technical work and ongoing exploration center on the intersection of intellig
   <img src="https://img.shields.io/badge/REST_APIs-161B22?style=for-the-badge&logo=openapiinitiative&logoColor=38BDF8" alt="REST APIs" />
 </p>
 
-### Embedded Systems
+### AI and Data Science
 
 <p align="left">
-  <img src="https://img.shields.io/badge/ESP32-161B22?style=for-the-badge&logo=espressif&logoColor=38BDF8" alt="ESP32" />
-  <img src="https://img.shields.io/badge/Arduino-161B22?style=for-the-badge&logo=arduino&logoColor=38BDF8" alt="Arduino" />
-  <img src="https://img.shields.io/badge/IoT-161B22?style=for-the-badge&logo=mqtt&logoColor=38BDF8" alt="IoT" />
-  <img src="https://img.shields.io/badge/Sensors_%26_Microcontrollers-161B22?style=for-the-badge&logo=raspberrypi&logoColor=38BDF8" alt="Sensors and Microcontrollers" />
+  <img src="https://img.shields.io/badge/MATLAB-161B22?style=for-the-badge&logo=octave&logoColor=38BDF8" alt="MATLAB" />
+  <img src="https://img.shields.io/badge/NumPy-161B22?style=for-the-badge&logo=numpy&logoColor=38BDF8" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Pandas-161B22?style=for-the-badge&logo=pandas&logoColor=38BDF8" alt="Pandas" />
+  <img src="https://img.shields.io/badge/scikit--learn-161B22?style=for-the-badge&logo=scikitlearn&logoColor=38BDF8" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/Machine_Learning-161B22?style=for-the-badge&logo=tensorflow&logoColor=38BDF8" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/Deep_Learning-161B22?style=for-the-badge&logo=pytorch&logoColor=38BDF8" alt="Deep Learning" />
 </p>
 
 ### Tools and Platforms
@@ -79,10 +82,10 @@ My technical work and ongoing exploration center on the intersection of intellig
   <img src="https://img.shields.io/badge/Render-161B22?style=for-the-badge&logo=render&logoColor=38BDF8" alt="Render" />
 </p>
 
-| Scope | Technologies |
+| Scope | Technologies & Platforms |
 | :--- | :--- |
-| **Used in Current Repositories** | `Python` · `JavaScript` · `HTML5` · `CSS3` · `C/C++` · `MATLAB` · `scikit-learn` · `NumPy` · `Pandas` · `React` · `Next.js` · `FastAPI` · `REST APIs` · `ESP32` · `Arduino` · `Sensors & Microcontrollers` · `Supabase` · `Vercel` · `Git` · `GitHub` |
-| **Actively Learning & Exploring** | `Machine Learning` · `Deep Learning` · `IoT Architectures` · `Docker` · `Render` |
+| **Hands-On Hardware, Firmware & Code** | `C` · `C++` · `Python` · `Arduino` · `ESP32` · `Raspberry Pi` · `Firmware Development` · `Sensors & Microcontrollers` · `MATLAB` · `JavaScript` · `HTML5` · `CSS3` · `React` · `Next.js` · `FastAPI` · `REST APIs` · `scikit-learn` · `NumPy` · `Pandas` · `Supabase` · `Vercel` · `Git` · `GitHub` |
+| **Actively Learning & Exploring** | `Embedded Linux & RTOS` · `IoT Architectures` · `Machine Learning` · `Deep Learning` · `Docker` · `Render` |
 
 ---
 
@@ -121,13 +124,12 @@ My technical work and ongoing exploration center on the intersection of intellig
 
 ## Currently Learning 🧠
 
-- **Machine learning fundamentals** — Supervised and unsupervised learning workflows, feature engineering, and data preprocessing.
-- **Training and evaluating models** — Cross-validation, hyperparameter tuning, calibration, and classification/regression metrics.
-- **Deep learning fundamentals** — Neural network architectures, representation learning, and model optimization.
-- **Python backend development** — Asynchronous APIs, service architecture, and data persistence with FastAPI and Python.
-- **AI application development** — Integrating machine learning models and LLM workflows into practical software interfaces.
-- **Embedded systems integration** — Real-time sensor acquisition, microcontroller firmware, and reliable edge-to-server communication.
-- **Writing clean, maintainable code** — Modular design, clear documentation, type safety, and reproducible engineering practices.
+- **Embedded firmware & hardware integration** — Low-level `C`/`C++` firmware, peripheral protocols (`I2C`, `SPI`, `UART`), and real-time sensor interfacing on **Arduino**, **ESP32**, and **Raspberry Pi**.
+- **Web development & hardware dashboards** — Building responsive web interfaces and backend APIs (`Python`, `FastAPI`, `React`, `Next.js`) for live device telemetry and control.
+- **Python backend & system scripting** — Serial/network hardware communication, asynchronous APIs, and data pipelines.
+- **Machine learning & deep learning fundamentals** — Feature engineering, training and evaluating models, and applying ML to sensor and clinical datasets.
+- **AI application development** — Integrating intelligent models into practical hardware and software workflows.
+- **Writing clean, maintainable code** — Modular firmware and software architecture, version control, and reliable engineering practices.
 
 ---
 
